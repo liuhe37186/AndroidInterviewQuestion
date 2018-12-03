@@ -14,7 +14,7 @@
 
 - Android的消息驱动机制
 
-    - 初级：Handler、MessageQueue、Looper、Message关系，用法、内存泄露case&解决、子线程创建Looper
+    - [初级](https://www.jianshu.com/p/39487de9ac70)：Handler、MessageQueue、Looper、Message关系，用法、内存泄露case&解决、子线程创建Looper
 
     - 中级：Java层源码分析、ThreadLocal作用、高级用法（IdleQueue、BlockCanary）
 
